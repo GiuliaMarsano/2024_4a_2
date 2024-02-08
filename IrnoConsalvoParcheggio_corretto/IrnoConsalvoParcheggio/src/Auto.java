@@ -18,6 +18,7 @@ private final int tariffaG=10;
 	public Auto(String t, String m, boolean dis, float cost, String tip) {
 		super(t, m, dis, cost);
 		tipo=tip;
+		// esempio
 		
 	}
 	
